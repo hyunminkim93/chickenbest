@@ -1,6 +1,12 @@
 import requests as req
 from bs4 import BeautifulSoup as bs
 import json
+from datetime import datetime 
+
+
+# 현재 날짜 가져오기
+current_date = datetime.now().strftime("%Y-%m-%d")
+filename = f"Hosigichicken/Hosigichicken_{current_date}.json"
 
 def get_menu_data(url):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'}
@@ -32,5 +38,5 @@ url = "https://m.place.naver.com/restaurant/37398347/menu/list"
 chart_data = get_menu_data(url)
 
 # 데이터를 JSON 파일로 저장
-with open("Hosigichicken.json", "w", encoding='UTF-8') as json_file:
+with open(filename, "w", encoding='UTF-8') as json_file:
     json.dump(chart_data, json_file, ensure_ascii=False, indent=4)
