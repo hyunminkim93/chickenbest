@@ -51,6 +51,7 @@ jobs:
         python3 pynenechicken.py
         python3 pynorangtongdak.py
         python3 pypelicana.py
+        python3 pykfc.py
 
     - name: commits
       run : |
@@ -66,6 +67,7 @@ jobs:
         git add nenechicken/nenechicken_*.json
         git add norangtongdak/norangtongdak_*.json
         git add pelicana/pelicana_*.json
+        git add kfc/kfc_*.json
 
         
         git commit -m "치킨 수집 완료"
