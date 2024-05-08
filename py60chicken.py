@@ -6,7 +6,7 @@ from datetime import datetime
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"atteckchicken__{current_date}.json"
+filename = f"60chicken_{current_date}.json"
 
 def get_menu_data(url):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'}
@@ -39,5 +39,5 @@ url = "https://m.booking.naver.com/order/bizes/1017438/items/5440347?theme=place
 chart_data = get_menu_data(url)
 
 # 데이터를 JSON 파일로 저장
-with open("60chicken.json", "w", encoding='UTF-8') as json_file:
+with open(filename, "w", encoding='UTF-8') as json_file:
     json.dump(chart_data, json_file, ensure_ascii=False, indent=4)
