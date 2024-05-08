@@ -12,6 +12,7 @@ def get_menu_data(url):
     sub = soup.select("span.detail_txt")
     price = soup.select("div.price")
     menuimage = soup.select("span.img_box")
+    
 
     chart_data = []
     for m, s, p, mi in zip(menu, sub, price, menuimage):
