@@ -56,7 +56,7 @@ jobs:
     - name: commits
       run : |
         git config --global user.email "rlagusals234@gmail.com"
-        git config --global user.name "Hyunminkim93" 
+        git config --global user.name "hyunminkim93" 
         git add 60chicken/60chicken_*.json
         git add bbqchicken/bbqchicken_*.json
         git add bhcchicken/bhcchicken_*.json
