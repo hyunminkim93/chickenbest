@@ -66,6 +66,8 @@ jobs:
         git add nenechicken/nenechicken.json
         git add norangtongdak/norangtongdak.json
         git add pelicana/pelicana.json
+
+        
         git commit -m "치킨 수집 완료"
 
     - name: push
