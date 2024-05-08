@@ -57,16 +57,16 @@ jobs:
       run : |
         git config --global user.email "rlagusals234@gmail.com"
         git config --global user.name "hyunminkim93" 
-        git add 60chicken/60chicken_*.json
-        git add bbqchicken/bbqchicken_*.json
-        git add bhcchicken/bhcchicken_*.json
-        git add gcova/gcova_*.json
-        git add goobne/goobne_*.json
-        git add Hosigichicken/Hosigichicken_*.json
-        git add kyochonchicken/kyochonchicken_*.json
-        git add nenechicken/nenechicken_*.json
-        git add norangtongdak/norangtongdak_*.json
-        git add pelicana/pelicana_*.json
+        git add 60chicken/60chicken*.json
+        git add bbqchicken/bbqchicken*.json
+        git add bhcchicken/bhcchicken*.json
+        git add gcova/gcova*.json
+        git add goobne/goobne*.json
+        git add Hosigichicken/Hosigichicken*.json
+        git add kyochonchicken/kyochonchicken*.json
+        git add nenechicken/nenechicken*.json
+        git add norangtongdak/norangtongdak*.json
+        git add pelicana/pelicana*.json
         git commit -m "치킨 수집 완료"
 
     - name: push
