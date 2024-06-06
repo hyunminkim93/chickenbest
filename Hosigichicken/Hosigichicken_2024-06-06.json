@@ -1,0 +1,140 @@
+[
+    {
+        "Menu": "크리스피 골드(국내산 순살) 단품",
+        "Sub": "바삭함으로 감싸고 촉촉함으로 가득 채운\n국내산 순살 크리스피 골드 치킨",
+        "Price": "16,500원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151229_292%2F1451351026132HSjiY_JPEG%2F167179503366040_0.jpeg"
+    },
+    {
+        "Menu": "크리스피 골드(국내산 순살)+한마리 세트",
+        "Sub": "바삭함으로 감싸고 촉촉함으로 가득 채운\n국내산 순살 크리스피 골드 치킨",
+        "Price": "24,500원",
+        "MenuImage": null
+    },
+    {
+        "Menu": "수라깐풍치킨(한마리)",
+        "Sub": "매콤달콤 풍미 깊은 소스에 알록달록 \n색동 야채로 수놓은 궁중 수라깐풍치킨",
+        "Price": "18,000원",
+        "MenuImage": null
+    },
+    {
+        "Menu": "수라깐풍(한마리)+한마리 세트",
+        "Sub": "매콤달콤 풍미 깊은 소스에 알록달록 \n색동 야채로 수놓은 궁중 수라깐풍치킨",
+        "Price": "26,000원",
+        "MenuImage": null
+    },
+    {
+        "Menu": "요거치즈닝치킨(안심) 단품",
+        "Sub": "지중해풍 딜요거트와 바삭한 마법 치즈시즈닝의 만남",
+        "Price": "18,000원",
+        "MenuImage": null
+    },
+    {
+        "Menu": "요거치즈닝(안심)+한마리 세트",
+        "Sub": "지중해풍 딜요거트와 바삭한 마법 치즈시즈닝의 만남",
+        "Price": "26,000원",
+        "MenuImage": null
+    },
+    {
+        "Menu": "레몬크림탕슈(안심) 단품",
+        "Sub": "쫀득 안심살이 크림소스와 만나 상큼~심쿵",
+        "Price": "18,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2024%2F4%2F25%2FF5oEJplx2wxSoMjGbgOgNI9ksGaChFqayRD2wi_4sIB6VtgTJBjaJerUFa9uolKpndTxcEoLvQR3Y-nDiiC3mrvvXUOefrK6Qry_ygeU-fY%3D.jpg"
+    },
+    {
+        "Menu": "레몬크림탕슈(안심)+한마리 세트",
+        "Sub": "상큼한 레몬크림탕슈과 치킨 조합 세트",
+        "Price": "26,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2024%2F4%2F25%2F9QIV4wqKchDNcVjKK3h2UxHLY3Lyxq5va2-nlcPrhm4AtrKmi3CENMjish71Q8Xn0W8RsjsWc_c89rWMwJ_WzJOGYJJsG0MUYoTaE5pvt1w%3D.jpg"
+    },
+    {
+        "Menu": "한마리+한마리+콜라",
+        "Sub": "국내산 하림닭 / 가심비 두 배 세트",
+        "Price": "23,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2023%2F10%2F12%2FnnyJQGHnTK2XlHf3740ePHs-GsSrxlH4222zp7qAE_QPMF3P6zg5-ZUSujxo66_iZ25VNANqUI-awBln3EP7sjZ_-ovE2l9vyewmdHaohvs%3D.jpg"
+    },
+    {
+        "Menu": "순살+순살+콜라",
+        "Sub": "국내산 하림닭 / 가심비 두 배 세트",
+        "Price": "23,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2023%2F10%2F12%2F86Jc2i1ftD6VOmeSXUTHhdDfS4MHbgs-kgpNTo-4wSW3Kvamwes5q4Jxbo1VI4F3JDWm5PrPQmQW3G-I0zxqHn1_Imnet0l7BgsYYaMdwq0%3D.jpg"
+    },
+    {
+        "Menu": "텐더+텐더+콜라",
+        "Sub": "국내산 하림닭 / 가심비 두 배 세트",
+        "Price": "23,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2023%2F10%2F12%2F1NlY1f1GNmjhid6b3JFmppztcjG_xGPtF19hGsn6MiLlnCywaPHJSNcSXTIv1HGbBfpWNCPt-_MOyKEF5934A6beFTPeyPsz7GBGU8kKkdM%3D.jpg"
+    },
+    {
+        "Menu": "한마리+순살+콜라",
+        "Sub": "국내산 하림닭 / 가심비 두 배 세트",
+        "Price": "23,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2023%2F10%2F12%2FjRUs7P5lE98kX9yPxVKUgf4_yfEbSXlrSn1mRgOcmlCD32Zp93q0njRhCW72_60ygmFWC3CkbkwEaybHi0Pi7fZvza6AS6a_tyE879S6gNs%3D.jpg"
+    },
+    {
+        "Menu": "한마리+텐더+콜라",
+        "Sub": "국내산 하림닭 / 가심비 두 배 세트",
+        "Price": "23,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2023%2F10%2F12%2FfuEAzTL-fav6sYPSwisuCFhsLfx0kugW4p-YZ6zBFYDll05p4VJe-6m0uDIKC0P_rw1lz8RxtYhIQvUwEGWjpGhK6pRqovpTh7egfdfdHTY%3D.jpg"
+    },
+    {
+        "Menu": "한마리+콜라",
+        "Sub": "국내산 하림닭 / 한 마리도 남다르다",
+        "Price": "15,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2023%2F10%2F12%2FKwi2l613kGimdIWg1PV_bpNf_6H24wAP53P_W_P7lJ85wy4WXyKaQWiaB_inLI3Pnu0b6nQPP7Nea8eXhK1x7jwyHKxncpQX9-vcPqOGDKY%3D.jpg"
+    },
+    {
+        "Menu": "순살+콜라",
+        "Sub": "국내산 하림닭 / 한 마리도 남다르다",
+        "Price": "15,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2021%2F6%2F9%2FeLaCr3scRKWCIYJ-jnSSIUSMbdWEs4Q8p3wiSyGRXqSSsHodVec1LsU1g2KbG-50.jpg"
+    },
+    {
+        "Menu": "텐더+콜라",
+        "Sub": "국내산 하림닭 / 한 마리도 남다르다",
+        "Price": "15,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2021%2F6%2F9%2FeLaCr3scRKWCIYJ-jnSSITc_1AhCs0FqDOUtZf-CkpcZl2oBUDxLJ-mdhJ2iG3Oe.jpg"
+    },
+    {
+        "Menu": "플라윙(윙+봉)세트+콜라",
+        "Sub": "국내산 하림닭 / 윙과 봉을 한번에 한입에",
+        "Price": "22,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2021%2F6%2F9%2FeLaCr3scRKWCIYJ-jnSSIdzKyXrzXCn0bi_5P6A5aW2V5r0T8dDq_v1rGHK1FO_W.jpg"
+    },
+    {
+        "Menu": "다리만+콜라",
+        "Sub": "국내산 하림닭 / 닭다리 매니아의 선택",
+        "Price": "22,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2021%2F6%2F9%2FeLaCr3scRKWCIYJ-jnSSITqnKprLOtggFWuqas85n5_olHNpQpJGWkXLeR0lD_zy.jpg"
+    },
+    {
+        "Menu": "닭발튀김+치킨세트+콜라",
+        "Sub": "자꾸 손이 가는 특수부위와 치킨을 한번에",
+        "Price": "27,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2021%2F6%2F9%2FeLaCr3scRKWCIYJ-jnSSIU_RrytAiZU1otbItOUJfqdQiLc8FqRP2Wv9KZmtiey_.jpg"
+    },
+    {
+        "Menu": "똥집튀김+치킨세트+콜라",
+        "Sub": "자꾸 손이 가는 특수부위와 치킨을 한번에",
+        "Price": "25,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2021%2F6%2F9%2FeLaCr3scRKWCIYJ-jnSSITVknlELn9-ULYzRvpBZD_0pEtcRsE0WASsbeZ9OXCE_.jpg"
+    },
+    {
+        "Menu": "닭발/똥집튀김(반반)+치킨세트+콜라",
+        "Sub": "자꾸 손이 가는 특수부위와 치킨을 한번에",
+        "Price": "27,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2021%2F6%2F9%2FeLaCr3scRKWCIYJ-jnSSIRHf0gElTFLmsCtxLDgLVYhVkclJ1GM0b8p4XyTWxUC9.jpg"
+    },
+    {
+        "Menu": "닭발튀김+콜라",
+        "Sub": "야들야들한 닭발에 바삭한 튀김을 입혔다",
+        "Price": "18,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2021%2F6%2F9%2FeLaCr3scRKWCIYJ-jnSSIZVwFFFebxef0l6JSaCacJgDPK8YG5tINswQTefAMFgq.jpg"
+    },
+    {
+        "Menu": "똥집튀김+콜라",
+        "Sub": "쫀득쫀득한 똥집에 바삭한 튀김을 입혔다",
+        "Price": "16,000원",
+        "MenuImage": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=http%3A%2F%2Fimagefarm.baemin.com%2Fsmartmenuimage%2Fupload%2Fimage%2F2021%2F6%2F9%2FeLaCr3scRKWCIYJ-jnSSIerOMfpJAtavPW0nyaJPTfu4TtkGOryBwKI5zmPyeCOG.jpg"
+    }
+]
